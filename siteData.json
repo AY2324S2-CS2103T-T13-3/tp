@@ -116,6 +116,8 @@
         "locating-persons-by-name-relationship-tag-find": "Locating persons by name, relationship, tag: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "assigning-a-policy-policy": "Assigning a policy : policy",
+        "undoing-a-command-undo": "Undoing a command: undo",
+        "redoing-a-command-redo": "Redoing a command:redo",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
