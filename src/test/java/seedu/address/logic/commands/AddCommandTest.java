@@ -193,15 +193,7 @@ public class AddCommandTest {
             throw new AssertionError("This method should not be called.");
         }
 
-        @Override
-        public void removeExpiredMeetings() {
-            throw new AssertionError("Expired Meetings should not exist.");
-        }
 
-        @Override
-        public void removeExpiredMeetings() {
-            throw new AssertionError("Expired Meetings should not exist.");
-        }
     }
 
     /**
