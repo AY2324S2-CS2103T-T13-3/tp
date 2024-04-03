@@ -116,6 +116,7 @@
         "locating-persons-by-name-relationship-tag-policy-find": "Locating persons by name, relationship, tag, policy: find",
         "deleting-a-person-delete": "Deleting a person : delete",
         "how-to-modify-a-policy": "How to modify a policy?",
+        "changing-a-client-s-status-status": "Changing a client's status: status",
         "undoing-a-command-undo": "Undoing a command: undo",
         "redoing-a-command-redo": "Redoing a command:redo",
         "clearing-all-entries-clear": "Clearing all entries : clear",
@@ -133,7 +134,7 @@
       "src": "index.md",
       "title": "",
       "headings": {
-        "addressbook-level-3": "AddressBook Level-3"
+        "insuraconnect": "InsuraConnect"
       },
       "headingKeywords": {}
     },
