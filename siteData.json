@@ -118,6 +118,7 @@
         "policy": "Policy",
         "changing-a-client-s-status-status": "Changing a client's status: status",
         "meeting": "Meeting",
+        "managing-meetings": "Managing Meetings",
         "undoing-a-command-undo": "Undoing a command: undo",
         "redoing-a-command-redo": "Redoing a command: redo",
         "clearing-all-entries-clear": "Clearing all entries : clear",
