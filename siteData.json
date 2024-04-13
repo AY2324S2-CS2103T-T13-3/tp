@@ -105,6 +105,7 @@
     },
     {
       "src": "UserGuide.md",
+      "title": "User Guide",
       "headings": {
         "user-guide-insuraconnect": "User Guide: InsuraConnect",
         "overview": "Overview",
