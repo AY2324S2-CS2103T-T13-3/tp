@@ -51,6 +51,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "undo-redo-feature": "Undo/redo feature",
+        "client-status": "Client Status",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
