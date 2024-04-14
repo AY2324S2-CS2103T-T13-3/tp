@@ -135,6 +135,7 @@
         "listing-all-persons-list": "Listing all persons : list",
         "editing-a-person-edit": "Editing a person : edit",
         "locating-persons-by-name-relationship-tag-policy-find": "Locating persons by name, relationship, tag, policy: find",
+        "deleting-a-person-delete": "Deleting a person : delete",
         "policy": "Policy",
         "adding-a-policy-to-a-client-policy": "Adding a policy to a client: policy",
         "editing-a-policy-of-a-client-policy": "Editing a policy of a client: policy",
