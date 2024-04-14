@@ -52,6 +52,8 @@
         "implementation": "Implementation",
         "undo-redo-feature": "Undo/redo feature",
         "client-status": "Client Status",
+        "relationship": "Relationship",
+        "find-feature": "Find feature:",
         "policy": "Policy",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
@@ -71,6 +73,11 @@
         "challenges-faced": "Challenges faced",
         "effort-required": "Effort required",
         "achievements": "Achievements",
+        "adding-a-policy": "Adding a policy",
+        "editing-a-policy": "Editing a policy",
+        "deleting-a-policy": "Deleting a policy",
+        "adding-a-person": "Adding a person",
+        "finding-a-person": "Finding a person",
         "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
